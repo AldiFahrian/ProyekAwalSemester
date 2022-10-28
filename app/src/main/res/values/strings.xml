@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAnime</string>
+    <string name="description">Description</string>
+    <string name="anime_name">Anime Name</string>
+    <string name="start">START</string>
+    <string name="myanime">MyAnime</string>
+    // untuk menampilkan teks yang akan dimasukkan pada aplikasi nantinya
+</resources>
